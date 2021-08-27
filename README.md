@@ -1,4 +1,4 @@
-Code related to [dean.dog/subway-shutdown](dean.dog/subway-shutdown).
+Code related to [dean.dog/subway-shutdown](http://dean.dog/subway-shutdown).
 
 Plotting and data exploration all happens in the `analysis.ipynb` notebook, but there is some prep work to get the data ready to use.
 
